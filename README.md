@@ -1,4 +1,4 @@
-# ReceiptsForLovelyLoveseats
+# Receipts For Lovely Loveseats
 Practice Project #2 for fundamental Python
 
 ## Description
